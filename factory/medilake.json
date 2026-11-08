@@ -1,0 +1,12 @@
+{
+	"name": "medilake",
+	"properties": {
+		"globalParameters": {
+			"email_receipent": {
+				"type": "string",
+				"value": "sajithsalu06@gmail.com"
+			}
+		}
+	},
+	"location": "indiasouthcentral"
+}
